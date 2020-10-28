@@ -1,7 +1,7 @@
 We are The SA Launcher Foundation. We have come to create a server hosting app for Minecraft. Not some website with a time limit, or memory limitations, or even a limit on how many plugins you can use! No. We come with an app (in development) coded in Java that will suit your needs for a Minecraft server.
 
 
-
+We plan on eventually adding web application, remote access, and a mobile application. **THIS WILL TAKE TIME, SO DON'T EXPECT IT ANYTIME SOON**
 
 
 ! IMPORTANT !
