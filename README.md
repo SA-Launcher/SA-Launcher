@@ -15,6 +15,6 @@ THIS APP WILL HAVE TO BE INSTALLED AND IS CURRENTLY IN ALPHA! RELEASE DATE IS TO
 <br>
 <br>
 ¹This application is meant only for Minecraft Java Edition servers that are *locally* hosted, not hosted by a third party hosting provider.
-
-
+<br>
+<br>
 For any further questions, reach out to us in the official discord server!
