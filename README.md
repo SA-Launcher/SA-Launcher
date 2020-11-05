@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/AWDUFcP.png" alt="logo" width="100px" align="left">
 
-<h1>SA Launcher</h1><a href="https://discord.gg/UeDSVKw"><img src=https://i.imgur.com/hydq8VI.png" alt="Discord"></a><br>
+<h1>SA Launcher</h1><a href="https://discord.gg/UeDSVKw"><img src="https://i.imgur.com/hydq8VI.png" alt="Discord"></a><br><a href="salauncher@aol.com"><img src="https://i.imgur.com/ubhHJyU.png" alt="EMail"><br>
 
 <h3>About</h3>
 We are The SA Launcher Foundation. We have come to create a server hosting app for Minecraft¹. Not some website with a time limit, or memory limitations, or even a limit on how many plugins you can use! No. We come with an app (in development) coded in Java that will suit your needs for a Minecraft server.
